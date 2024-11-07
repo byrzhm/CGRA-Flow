@@ -1,24 +1,24 @@
 [submodule "CGRA-Mapper"]
 	path = CGRA-Mapper
-	url = https://github.com/tancheng/CGRA-Mapper
+	url = git@github.com:tancheng/CGRA-Mapper
 [submodule "CGRA-Benchmark"]
 	path = CGRA-Benchmark
-	url = https://github.com/tancheng/CGRA-Benchmark
+	url = git@github.com:tancheng/CGRA-Benchmark
 [submodule "VectorCGRA"]
 	path = VectorCGRA
-	url = https://github.com/tancheng/VectorCGRA.git
+	url = git@github.com:tancheng/VectorCGRA.git
 [submodule "mlir-cgra"]
 	path = mlir-cgra
-	url = https://github.com/tancheng/mlir-cgra.git
+	url = git@github.com:tancheng/mlir-cgra.git
 [submodule "tools/mflowgen"]
 	path = tools/mflowgen
-	url = https://github.com/tancheng/mflowgen.git
+	url = git@github.com:tancheng/mflowgen.git
 [submodule "tools/sv2v"]
 	path = tools/sv2v
-	url = https://github.com/zachjs/sv2v.git
+	url = git@github.com:zachjs/sv2v.git
 [submodule "tools/cacti"]
 	path = tools/cacti
-	url = https://github.com/tancheng/cacti.git
+	url = git@github.com:tancheng/cacti.git
 [submodule "tools/OpenROAD-flow-scripts"]
 	path = tools/OpenROAD-flow-scripts
-	url = https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts.git
+	url = git@github.com:The-OpenROAD-Project/OpenROAD-flow-scripts.git
